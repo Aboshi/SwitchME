@@ -13,7 +13,7 @@ After you have flashed the device for the very first time you will need to doubl
 
 _________________________________________________________________________________________
 
-* For Pre-Compiled payloads check the releases section *
+For Pre-Compiled payloads check UF2_SwitchME_Payloads
 
 _________________________________________________________________________________________
 
