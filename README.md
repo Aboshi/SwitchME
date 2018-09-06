@@ -1,5 +1,9 @@
 # SwitchME
 
+_________________________________________________________________________________________
+
+* For Pre-Compiled payloads check the releases ection *
+
 To compile payloads for SwitchME you wil need to install the Arduino IDE
 https://www.arduino.cc/en/Main/Software
 
