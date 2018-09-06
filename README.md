@@ -17,7 +17,7 @@ For Pre-Compiled payloads check UF2_SwitchME_Payloads
 
 _________________________________________________________________________________________
 
-To compile payloads for SwitchME you wil need to install the Arduino IDE
+To compile payloads for SwitchME you will need to install the Arduino IDE
 https://www.arduino.cc/en/Main/Software
 
 ~ Next you must install the board manager for SwitchME ~
