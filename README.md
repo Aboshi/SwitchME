@@ -28,9 +28,9 @@ Change ctcaer_4.0_hekate.h to whatever you named you payload
 If you want to upload directly to your SwitchME just click on upload (your SwitchME is ready for use)
 If you want to compile to make a .bin for converting to UF2 select Sketch > Export compiled Binary
 
-You can find all the tools you need in the Release section of this Git
+You can find all the tools you need in the releases section of this git as well as pre compiled payloads in UF2 format
 We will provide plenty of payloads in UF2 format and keep them updated when updates are released.
 
 Greets to all the dev in the Switch scene without them none of this would be possible:
-@SciresM @hexkyz @naewhert @ktemkin @CTCaer @rajkosto @Reisyukaku @atlas44 @noemu
+@SciresM @hexkyz @naewhert @oct0xor @ktemkin @CTCaer @rajkosto @Reisyukaku @atlas44 @noemu
 @st4rk and countless others
