@@ -45,8 +45,20 @@ We will provide plenty of payloads in UF2 format and keep them updated when upda
 
 _________________________________________________________________________________________
 
+Custom Firmware and Emulators:
+
+Roll your own:
+https://www.sdsetup.com/
+^^
+Thanks to @noahc3 & @tomGER
+
+Or Download an AIO package:
+https://github.com/tumGER/SDFilesSwitch/releases
+^^ Tkanks to @tomGER for keeping things up to date
+_________________________________________________________________________________________
+
 The SwitchME also has 3.5mb of storage space. You can access it by putting the SwitchME into bootloader mode (double press the button)
 
-Greets to all the dev in the Switch scene without them none of this would be possible:
+Greets to all the devs in the Switch scene without them none of this would be possible:
 @SciresM @hexkyz @naewhert @oct0xor @ktemkin @CTCaer @rajkosto @Reisyukaku @atlas44 @noemu
 @st4rk and countless others
