@@ -45,6 +45,16 @@ We will provide plenty of payloads in UF2 format and keep them updated when upda
 
 _________________________________________________________________________________________
 
+Wiring Diagrams:
+Simple 4 wire always on diagram is in the wiring dir
+More diagrams will be added soon with auto rcm line strapping, voltage dropout method, emmc cutoff (another auto rcm) and many others.
+
+You can also find complete wiring diagrams below:
+https://gbatemp.net/threads/internal-modchip-samd21-trinket-m0-gemma-m0-itsybitsy-m0-express-guide-files-support.508068/
+
+Huge thanks to @mattytrog for adding the SwitchMe to the current list!
+_________________________________________________________________________________________
+
 Custom Firmware and Emulators:
 
 Roll your own:
