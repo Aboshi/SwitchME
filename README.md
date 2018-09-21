@@ -2,6 +2,15 @@
 
 _________________________________________________________________________________________
 
+*** If you have Auto RCM enabled DISABLE it until you flash the SwitchME for the first time (Use CTCaer 4.1 ***
+*** If you flash any other payload other than CTCaer 4.1 after enabling Auto RCM you will not have a way to flash
+the SwitchME unless you can boot into Horizon  because there is no usb data comms while in RCM (for now) ***
+*** If you get stuck because of Auto RCM and only booting to say BISkeydump, the way around this is to disconnect either D+ or D- Boot into Horizon, reconnect the line and than flash the SwitchME bootloader ***
+*** Again this is only if you have Auto RCM enabled ***
+
+*** We highly suggest you only use CTCaer 4.1 and put whatever payload you want to boot in the payloads dir from the SDCard files ***
+*** We have included some for you ***
+
 After Wiring in the SwitchME you can access the bootloader by conecting a usb-c cable directly to the switch.
 Make sure you have a compliant ucb-c cable first though!
 A compliant cable will have a 56k Ohm resistor (check where you perchased your cable from)
