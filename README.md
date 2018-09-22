@@ -3,12 +3,16 @@
 _________________________________________________________________________________________
 
 *** If you have Auto RCM enabled DISABLE it until you flash the SwitchME for the first time (Use CTCaer 4.1 ***
+
 *** If you flash any other payload other than CTCaer 4.1 after enabling Auto RCM you will not have a way to flash
 the SwitchME unless you can boot into Horizon  because there is no usb data comms while in RCM (for now) ***
+
 *** If you get stuck because of Auto RCM and only booting to say BISkeydump, the way around this is to disconnect either D+ or D- Boot into Horizon, reconnect the line and than flash the SwitchME bootloader ***
+
 *** Again this is only if you have Auto RCM enabled ***
 
 *** We highly suggest you only use CTCaer 4.1 and put whatever payload you want to boot in the payloads dir from the SDCard files ***
+
 *** We have included some for you ***
 
 After Wiring in the SwitchME you can access the bootloader by conecting a usb-c cable directly to the switch.
@@ -42,7 +46,7 @@ You can now select SwitchME m0 in the board programmer
 
 _________________________________________________________________________________________
 
-To compile different payoads you must first conver your payload.bin to hex
+To compile different payoads you must first convert your payload.bin to hex
 The easiest way is to use binConverter.py (you can find it under releases)
 Open SwitchME.ino
 Change ctcaer_4.0_hekate.h to whatever you named you payload
@@ -50,15 +54,16 @@ If you want to upload directly to your SwitchME just click on upload (your Switc
 If you want to compile to make a .bin for converting to UF2 select Sketch > Export compiled Binary
 
 You can find all the tools you need in the releases section of this git as well as pre compiled payloads in UF2 format
-We will provide plenty of payloads in UF2 format and keep them updated when updates are released.
+We will provide plenty of payloads in UF2 format and keep them updated with new releases.
 
 _________________________________________________________________________________________
 
 Wiring Diagrams:
-Simple 4 wire always on diagram is in the wiring dir
-More diagrams will be added soon with auto rcm line strapping, voltage dropout method, emmc cutoff (another auto rcm) and many others.
-
-You can also find complete wiring diagrams below:
+Check wiring dir
+4_wire_always_on (Do not use this method any longer) Leaving it in the git for reference only
+4_wire_on_at_powerup (when used with auto rcm you will get instant bootup to whatever you flahed the SwitchME with) We highly suggest CTCaer payloads!
+More diagrams will be added soon with auto rcm line strapping, emmc cutoff (another auto rcm) and many others.
+For now you can check this thread for other wiring methods that suit your needs:
 https://gbatemp.net/threads/internal-modchip-samd21-trinket-m0-gemma-m0-itsybitsy-m0-express-guide-files-support.508068/
 
 Huge thanks to @mattytrog for adding the SwitchMe to the current list!
