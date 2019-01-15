@@ -1,0 +1,10 @@
+Qty Value        Device                    Package                Parts                                                   Description                      SPICEPREFIX TP_SIGNAL_NAME
+1   1.5K         RESISTOR_0603_NOOUT       0603-NO                R1                                                      Resistors                                                  
+2   10uF         CAP_CERAMIC0805-NOOUTLINE 0805-NO                C1, C4                                                  Ceramic Capacitors                                         
+2   1uF          CAP_CERAMIC0603_NO        0603-NO                C2, C3                                                  Ceramic Capacitors                                         
+1   AP2112K-3.3  VREG_SOT23-5              SOT23-5                U1                                                      SOT23-5 Fixed Voltage Regulators                           
+1   ATSAMD21E18A ATSAMD21E                 QFN32_5MM              IC1                                                                                      X                         
+1   SCHOTTKY     DIODE_SOD-123FL           SOD-123FL              D1                                                      Diode                                                      
+13  TPSQTP20SQ   TPSQTP20SQ                TP20SQ                 3V3, 5V, D+, D-, GND, RST, RX, SC, SCL, SD, SDA, TX, VO Test pad                                                   
+1   red          LED0603_NOOUTLINE         CHIPLED_0603_NOOUTLINE DATA                                                    LED                                                        
+1   reset        SWITCH_TACT_SMT4.6X2.8    BTN_KMR2_4.6X2.8       Q2                                                      SMT Tact Switches                                          
