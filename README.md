@@ -38,7 +38,7 @@ https://www.arduino.cc/en/Main/Software
 Open Arduino IDE > Preferances > Additional Boards Manager URLs > Add The URL Below
 https://raw.githubusercontent.com/Aboshi/SwitchME/master/package_switchme_index.json
 
-Next go to Tools > Board > Boards Manager > Type SAMD > Select Arduino SAMD Boards and Install
+Next go to Tools > Board > Boards Manager > Type SAMD > Select Arduino SAMD Boards and Install version 1.6.21
 
 Next search for rebug and install
 
