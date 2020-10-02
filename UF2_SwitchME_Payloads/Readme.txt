@@ -2,4 +2,4 @@ Drag and drop, or copy and paste any of these uf2's onto REBUG_BOOT to flash you
 
 
 READ THE RELEASE NOTES!
-https://github.com/CTCaer/hekate/releases/tag/v5.2.0
+https://github.com/CTCaer/hekate/releases/
