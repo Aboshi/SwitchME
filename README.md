@@ -1,5 +1,11 @@
 # SwitchME
 
+******** This is NOT an Piracy device to circumvent anti-piracy mesures ********
+******** The SiwtcME comes blank and YOU choose what to install on it   ********
+         All the SwitchME does is make it more convient to launch a payload 
+So you do not have to connect up a usb cable to your computer and launch your payload
+				There is no way to pirate anything with the SwithME
+       ******** Again the SwitchME is not a circumvention device! ******** 
 _________________________________________________________________________________________
 
 *** If you have Auto RCM enabled DISABLE it until you flash the SwitchME for the first time (Use CTCaer 4.1 ***
