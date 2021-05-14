@@ -77,7 +77,11 @@ Thanks to @Team-Neptune for keeping things up to date
 Also have a look at this homebrew to automatically update all components (except the payload for the SwitchMe) automatically directly from the Switch.
 https://github.com/HamletDuFromage/aio-switch-updater/releases
 
-### Switch Scene
+### Switch Scene ###
 Greets to all the devs in the Switch scene without them none of this would be possible:
 @SciresM @hexkyz @naewhert @oct0xor @ktemkin @CTCaer @rajkosto @Reisyukaku @atlas44 @noemu
 @st4rk and countless others
+
+### tools used ###
+* [Euclala](https://github.com/euclala/) for the *binConverter.py*
+* [Microsoft](https://github.com/microsoft/) for the *uf2conv.py*
