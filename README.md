@@ -42,13 +42,13 @@ The easiest way is to use binConverter.py (you can find it in *Payload2UF2/main*
 Just use the following command line ```python2 binConverter.py </path/to/payload.bin>```. You need python2 for it.
 A ```<payload>.h``` should be generated. 
 
-Next open *SwitchME.ino* in *Payload2UF2/main* in the arduion application. 
+Next open *SwitchME.ino* in *Payload2UF2/main* in the arduino application. 
 Change *ctcaer\_4.0\_hekate.h* in the arduino sketchbook/project to whatever you named you payload. Make sure ```<payload>.h``` is in the same directory as the *SwitchMe.ino* file.
 If you want to upload directly to your SwitchME just click on upload (your SwitchME is ready for use).
 If you want to compile to make a .bin for converting to UF2 select *Sketch > Export compiled Binary*.
 
 The final step is to convert the compiled *\*.bin* into the UF2 format. You can do this with *uf2conv.py* also located in *Payload2UF2/main*.
-In this case you need python3. Here is the command line examle. ```python3 uf2conv.py main.ino.rebug_m0.bin```. Make sure the filename matches the generated *\*.bin*.
+In this case you need python3. Here is the command line examle. ```python3 uf2conv.py -c main.ino.rebug_m0.bin```. Make sure the filename matches the generated *\*.bin*. A file named *flash.uf2* should be generated.
 
 We try to keep all important payloads up to date. So in most cases you don't need to create your own *\*.uf2* files.
 
