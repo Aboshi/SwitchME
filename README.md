@@ -3,13 +3,13 @@
 **This is NOT an Piracy device to circumvent anti-piracy mesures**  
 **The SwitchME comes blank and YOU choose what to install on it**  
 
-The SwitchMe is intended to have a more convient way to launch a payload on four device.
+The SwitchMe is intended to have a more convient way to launch a payload on your device.
 So you do not have to connect a usb cable to your computer and launch your payload.
 There is no way to pirate anything with the SwithME.
 **Again the SwitchME is not a circumvention device!**  
 
 ## Important informations ## 
-* If you have Auto RCM enabled DISABLE it until you flash the SwitchME for the first time (Use HekateCTCaer)
+* If you have Auto RCM enabled DISABLE, it until you flash the SwitchME for the first time (Use HekateCTCaer)
 * If you flash any other payload other than Hekate CTCaer after enabling Auto RCM you will not have a way to flash
 the SwitchME unless you can boot into Horizon  because there is no usb data comms while in RCM (for now)
 * If you get stuck because of Auto RCM and only booting to say BISkeydump, the way around this is to disconnect either D+ or D- Boot into Horizon, reconnect the line and than flash the SwitchME bootloader
