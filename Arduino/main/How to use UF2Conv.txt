@@ -1,0 +1,6 @@
+py uf2conv.py hekate_compiled_from_arduino.bin -o Hekate_uf2.uf2
+
+OR 
+
+py uf2conv.py hekate_compiled_from_arduino.bin 
+if the switch is connected to the computer in bootloader mode

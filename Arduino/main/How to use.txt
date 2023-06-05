@@ -1,0 +1,13 @@
+Run binConverter.py on hekate.bin to get hekate.h
+
+Put hekate.h into SwitchME firmware project
+
+Export Compiled Binary
+
+Run uf2Conv to convert exported bin to UF2.
+
+Rename to CURRENT.uf2
+
+boot into nintendo OS. Double tap modchip button
+
+Put on modchip
