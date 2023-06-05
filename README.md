@@ -36,7 +36,7 @@ https://www.arduino.cc/en/Main/Software
 ~ Next you must install the board manager for SwitchME ~
 
 Open Arduino IDE > Preferances > Additional Boards Manager URLs > Add The URL Below
-https://raw.githubusercontent.com/Aboshi/SwitchME/master/package_switchme_index.json
+https://raw.githubusercontent.com/pablo67340/SwitchME/master/package_switchme_index.json
 
 Next go to Tools > Board > Boards Manager > Type SAMD > Select Arduino SAMD Boards and Install version 1.6.21
 
