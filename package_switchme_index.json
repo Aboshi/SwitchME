@@ -106,7 +106,7 @@
           "version": "1.0.0"
         }
       ],
-      "name": "Rebug V1.0.3",
+      "name": "Rebug V1.0.4",
       "email": "info@rebug.com",
       "help": {
         "online": "https://rebug.me"
@@ -121,7 +121,7 @@
           ],
           "architecture": "samd",
           "category": "Rebug",
-          "version": "1.0.3",
+          "version": "1.0.4",
           "archiveFileName": "RebugSwitchME_BoardFile_v1.zip",
           "url": "https://github.com/Aboshi/SwitchME/files/2357933/RebugSwitchME_BoardFile_v1.zip",
           "name": "SwitchME SAMD Boards",
