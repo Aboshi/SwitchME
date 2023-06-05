@@ -111,7 +111,7 @@
       "help": {
         "online": "https://rebug.me"
       },
-      "maintainer": "Rebug",
+      "maintainer": "Rebug & pablo67340",
       "platforms": [
         {
           "boards": [
@@ -121,7 +121,7 @@
           ],
           "architecture": "samd",
           "category": "Rebug",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "archiveFileName": "RebugSwitchME_BoardFile_v1.zip",
           "url": "https://github.com/Aboshi/SwitchME/files/2357933/RebugSwitchME_BoardFile_v1.zip",
           "name": "SwitchME SAMD Boards",
@@ -152,7 +152,8 @@
               "version": "1.2.0"
             }
           ],
-          "size": "22175982"
+          "size": "22175982",
+          "checksum": "fa3683c2b8fdd62a55b54ddd5d97f701"
       }
       ]
     }
