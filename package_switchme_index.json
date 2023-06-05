@@ -106,7 +106,7 @@
           "version": "1.0.0"
         }
       ],
-      "name": "Rebug V1.0.2",
+      "name": "Rebug V1.0.3",
       "email": "info@rebug.com",
       "help": {
         "online": "https://rebug.me"
@@ -121,7 +121,7 @@
           ],
           "architecture": "samd",
           "category": "Rebug",
-          "version": "1.0.2",
+          "version": "1.0.3",
           "archiveFileName": "RebugSwitchME_BoardFile_v1.zip",
           "url": "https://github.com/Aboshi/SwitchME/files/2357933/RebugSwitchME_BoardFile_v1.zip",
           "name": "SwitchME SAMD Boards",
@@ -153,7 +153,7 @@
             }
           ],
           "size": "22175982",
-          "checksum": "fa3683c2b8fdd62a55b54ddd5d97f701"
+          "checksum": "MD5:fa3683c2b8fdd62a55b54ddd5d97f701"
       }
       ]
     }
