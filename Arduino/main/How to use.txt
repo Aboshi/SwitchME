@@ -1,13 +1,22 @@
-Run binConverter.py on hekate.bin to get hekate.h
+Step 1: Run `binConverter.py hekate.bin` inside of `Arduino/main` to get `Arduino/main/hekate.h`
 
-Put hekate.h into SwitchME firmware project
+Step 2: Open Arduino/main/main.ino with Arduino
 
-Export Compiled Binary
+Step 3(Make sure board steps have been completed in the main readme.md):
+Sketch > Export Compiled Binary. Save to `Arduino/main`. This will create a new .bin file.
 
-Run uf2Conv to convert exported bin to UF2.
+Step 4: Run `uf2Conv.py Arduino/main/nameOfBinFile.bin -o path/to/NEW.uf2` to convert exported bin to UF2.
+OPTIONALLY: If your switch is in HOS mode and the modchip is in bootloader mode, and connected to your PC already, you can run: 
+`uf2Conv.py Arduino/main/nameOfBinFile.bin` to flash to the chip directly.
 
-Rename to CURRENT.uf2
+Step 5: Rename to `NEW.uf2
 
-boot into nintendo OS. Double tap modchip button
+Step 6: Plug Switch into PC USB. 
 
-Put on modchip
+Step 7: Boot into Nintendo OS (HOS). 
+
+Step 8: Double tap modchip button. 
+
+Step 9: Drag new `NEW.UF2` onto Modchip Drive.
+
+Profit!
